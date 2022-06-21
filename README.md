@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alana Nanz.
-- 👀 I’m interested in front end development.
+- 👀 I’m a web developer who writes clean, elegant and efficient code. I specialize in front end development and responsive design.
 - 🌱 I’m currently growing my skills in HTML, CSS, JS, React and PHP.
-- 💞️ I’m always looks for opportunities to practice and am open to project ideas.
-- 📫 I can be reached at readalana@gmail.com. 
+- 💞️ I’m always looking for opportunities to pratice and grow my skills.
+- 📫 I can be reached at readalana@gmail.com. My portfolio can be viewed at alanananz.com
