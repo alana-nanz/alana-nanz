@@ -2,4 +2,4 @@
 - 👀 I’m a web developer who writes clean, elegant and efficient code. I specialize in front end development and responsive design.
 - 🌱 I’m currently growing my skills in HTML, CSS, JS, React and PHP.
 - 💞️ I’m always looking for opportunities to pratice my skills and collaborate with other developers and designers.
-- 📫 I can be reached at readalana@gmail.com. My portfolio can be viewed at alanananz.com
+- 📫 I can be reached at readalana@gmail.com. My portfolio can be viewed at www.alanananz.com
